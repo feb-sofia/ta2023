@@ -4,8 +4,8 @@
 
 The classes will take place online using skype: https://join.skype.com/FTOd38dr1Bpf
 
-- Mo. 19:00-20:30, starting 20th November 2023
-- We. 19:00-20:30
+- Mo. 18:00-19:30, starting 20th November 2023
+- We. 18:00-19:30
 
 ## Setup
 
